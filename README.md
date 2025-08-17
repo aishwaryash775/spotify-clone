@@ -50,7 +50,8 @@ content section, and a bottom music player.
 
 ### 🖼 Home Page with Sidebar & Main Content
 
-![Home Page](./Screenshot%202025-08-17%20105918.png)
+![Home Page](./!Screenshot 2025-08-17 105936.png…)
+)
 
 ### 🎶 Bottom Music Player
 
