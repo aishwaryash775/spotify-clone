@@ -50,7 +50,7 @@ content section, and a bottom music player.
 
 ### 🖼 Home Page with Sidebar & Main Content
 
-![Home Page](.screenshots/image.png)
+![Home Page](./screenshots/image.png)
 )
 
 ### 🎶 Bottom Music Player
